@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Mayank Sagar</h1>
+<h3 align="center">🚀 AI Engineer | Full Stack Developer | MERN Stack Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mayank2814&label=Profile%20Views&color=0e75b6&style=flat" alt="Mayank2814" />
+</p>
+
 # 👋 Hi, I'm Mayank Sagar
 
 🚀 Passionate Software Developer | 🤖 AI Enthusiast | 🌐 Full Stack Developer | 💻 Problem Solver
