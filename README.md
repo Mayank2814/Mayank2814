@@ -58,34 +58,6 @@ Welcome to my GitHub profile! I'm a Computer Science student and technology enth
 
 ---
 
-## 🚀 Featured Projects
-
-### 🗳️ SecureBallot
-A Smart Secure E-Voting System leveraging:
-- 🔐 Cryptographic Hash Chains
-- 🌳 Merkle Trees
-- ✔️ Vote Verification Mechanisms
-- 🛡️ Secure Authentication
-- 📊 Transparent Result Verification
-
-### 🏥 Hospital Payment Gateway
-A complete payment management system featuring:
-- 💳 Payment Processing Simulation
-- 📄 PDF Receipt Generation
-- 🗄️ SQLite Database Integration
-- 🔒 Input Validation
-- 📈 Transaction Tracking
-
-### 🎵 Dance Studio Management System
-A comprehensive management platform including:
-- 👥 Student Management
-- 💰 Fee Management
-- 📅 Class Scheduling
-- 📊 Reports & Analytics
-- 🔐 Secure User Authentication
-
----
-
 ## 📚 Areas of Expertise
 
 ✅ Object-Oriented Programming (OOP)
